@@ -1,0 +1,2 @@
+import subprocess
+subprocess.Popen(cmd, creationflags=subprocess.DETACHED_PROCESS)  # spawn-hidden-ok: needs own console

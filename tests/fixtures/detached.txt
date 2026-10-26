@@ -1,0 +1,2 @@
+import subprocess
+subprocess.Popen(cmd, creationflags=subprocess.DETACHED_PROCESS)

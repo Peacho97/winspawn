@@ -1,0 +1,8 @@
+const re = /a/;
+re.exec('a');
+cp.exec('dir', { windowsHide: true });
+class Runner {
+  exec(cmd) {
+    return cmd;
+  }
+}
